@@ -6,15 +6,17 @@
 - Basic knowledge of SourceMod plugin development (SourcePawn)
 - Familiarity with command line
 
-## 1. Install CS:GO Legacy
+## 1. Install CS:GO
 
-CS2 replaced CS:GO, but the legacy version is still accessible:
+As of March 2025, Valve re-released CS:GO as a standalone download.
 
-1. Open Steam → Library → Counter-Strike 2
-2. Right-click → Properties
-3. Go to "Betas" tab
-4. Select `csgo_legacy - Legacy Version of CS:GO`
-5. Wait for download (~25GB)
+**Note:** The game is unlisted on Steam (won't appear in search), so you need the direct link.
+
+1. Go to: https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/
+2. Click "Play Game" to add to library
+3. Download via Steam (~25GB)
+
+> Official matchmaking is disabled, but community servers work—perfect for modding.
 
 Verify installation:
 ```bash

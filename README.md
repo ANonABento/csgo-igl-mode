@@ -46,7 +46,7 @@ Think chess meets CS:GO. Your mechanical skill matters, but your reads and calls
 | Bot AI | CS:GO Behavior Trees (.kv3) |
 | Game Logic | VScript (Squirrel) |
 | UI | Scaleform / External Overlay |
-| Base Game | CS:GO Legacy (`csgo_legacy` beta) |
+| Base Game | CS:GO (standalone, March 2025) |
 
 ## Project Structure
 
@@ -72,7 +72,9 @@ CS2 runs on Source 2, which doesn't yet support:
 - Behavior Trees for bots
 - Full VScript capabilities
 
-CS:GO Legacy has a mature modding ecosystem. We'll port to CS2 when the tooling catches up.
+**Good news:** As of March 2025, Valve re-released CS:GO as a [standalone download](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/) (unlisted but accessible). No more `csgo_legacy` beta workaround needed.
+
+Note: Official matchmaking is disabled, but community servers work perfectly—which is exactly what we need for this mod.
 
 ## Getting Started
 
