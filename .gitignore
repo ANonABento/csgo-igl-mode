@@ -1,0 +1,25 @@
+# Compiled plugins
+*.smx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+*.log
+
+# Local config overrides
+*.local.*
+local/
+
+# Server files (if developing in-place)
+server/
